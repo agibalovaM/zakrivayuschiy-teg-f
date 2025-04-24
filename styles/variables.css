@@ -10,7 +10,7 @@
 
   --section-width: clamp(375px, 90%, 1024px);
   --header-padding-block: clamp(7.5rem, 7.1479rem + 1.5023vw, 8rem);
-  --logo-font-size: clamp(2rem, 6vw, 4.5rem);
+  --logo-font-size: clamp(2rem, 6vw, 4rem);
 
   --card-border: 2px solid #000;
   --card-bg: #fff;
